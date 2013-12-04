@@ -1,0 +1,32 @@
+CAMERA CLASS TUTORIALS
+
+IDEA EXPLAINED
+http://stackoverflow.com/questions/19073382/pygame-infinite-scrolling-camera
+
+MORE INFORMATION
+http://stackoverflow.com/questions/19936347/pygame-window-and-sprite-class-python
+
+ACTUAL CLASS*
+https://scienceman.googlecode.com/svn-history/r14/trunk/gamelib/game.py
+
+*Note: While the classes are very similar I do not see how I could have really 
+	implemented it a different way. However, as the code seems so similar I will
+	cite it and leave it to grader's discretion. The rest of the game's code is layed
+	out in a similar manner it is a barebones file in my opinion and I did not copy 
+	any code from this file. Especially not a globalPlayer.
+
+
+DATA FILE
+
+CITATION IN DATA.PY
+Code was altered, most of it is unchanged/unused in the project. Simply used for ease of access.
+
+SAVE FILE
+
+CITATION IN SAVEFILE.PY
+saving files influenced by code form lecture ALL OTHER CODE WRITTEN BY ME.
+
+SPRITE SHEETS
+http://www.spriters-resource.com/snes/smarioworld/
+http://tsgk.captainn.net/?p=showsheets&t=sr&sr=4
+

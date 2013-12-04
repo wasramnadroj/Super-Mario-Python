@@ -1,0 +1,15 @@
+PROJECT PROPOSAL
+
+The Problem
+-----------
+	I intend to create a version of Super Mario Bros. using python and the pygame module. The game will be done using game sprites from various sprite website, predominately The ShyGuy Kingdom (http://tsgk.captainn.net/). I will use these sprites to draw, and animate Mario as well as the world around him. I may need to alter these sprites as the code I use to rip sprites of a sprite sheet requires background colors which are not in the picture. I will be using photoshop CS6 to do this as well as potentially make my own title screens using pre rendered photos (TENT).
+	The game will also include normally non-playable characters from Mario, as well as a yet to be selected character from a different popular nintendo game. Most likely Pokemon, or otherwise - yet to be determined for sure. The game will consist of levels from the Super Mario Bros. 3 game however may not be in the order they appear in the game and will feature the first level of Super Mario Bros. 2 as a warm up level as it is easily the most recognized level by many people. The game will make use of map sheets which will be drawn to guide the program as to how to draw the world which Mario is a part of. These levels will have to be constructed through the use of photoshop as the maps must be accurate to the pixel in order to work properly.
+	Aside from the map creation collision detection as well as environment interaction will have to be implemented which means assigning properties to each sprite. Most likely each of the characters will have different properties such as different speeds or jumping abilities. 
+
+Modules
+-------
+PYGAME
+
+Technologies
+------------
+PHOTOSHOP
